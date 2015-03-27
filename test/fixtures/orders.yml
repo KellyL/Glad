@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  total: 1.5
+  date_ordered: 2015-03-26
+  date_delivered: 2015-03-26
+  customer_id: 
+
+two:
+  content: MyText
+  total: 1.5
+  date_ordered: 2015-03-26
+  date_delivered: 2015-03-26
+  customer_id: 
